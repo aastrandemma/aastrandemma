@@ -1,7 +1,7 @@
 ### Sup, champ? 👋
 I'm Emma an experienced programmer. I've been in tech the past 10 years. My goal is acquiring a career as a full stack developer👩‍💻.
 
-- 🌱 I’m currently learning [SPRING](https://spring.io/) ![](https://spring.io/img/favicon.ico)
+- 🌱 I’m currently learning [REACT](https://react.dev/)
 - 🌍 I'm based in Sweden
 - 📬 You can connect with me at: [LinkedIn](https://www.linkedin.com/in/emmaastrand/) 
 - ⚡ Fun fact: 🎮 gamer & a complete hockey fan 🏒
